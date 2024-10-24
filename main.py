@@ -1,5 +1,12 @@
 import pygame
-from constants import *
+from constants import (
+  SCREEN_HEIGHT,
+  SCREEN_WIDTH,
+  ASTEROID_KINDS,
+  ASTEROID_MAX_RADIUS,
+  ASTEROID_MIN_RADIUS,
+  ASTEROID_SPAWN_RATE
+)
 
 
 def main():
