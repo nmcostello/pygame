@@ -11,6 +11,7 @@ i might try to make a game in go after this. i could clone this one, who knows.
 
 stay tuned :)
 
+Potential updates that we can do:  
 - Add a scoring system
 - Implement multiple lives and respawning
 - Add an explosion effect for the asteroids
